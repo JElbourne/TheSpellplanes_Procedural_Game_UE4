@@ -1,0 +1,296 @@
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 0
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 3
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 4
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 5
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 6
+"../../../Engine/Content/BasicShapes/Cone.uasset" 7
+"../../../Engine/Content/BasicShapes/Cube.uasset" 8
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 9
+"../../../Engine/Content/BasicShapes/Plane.uasset" 10
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 11
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 12
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 13
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 14
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 15
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 16
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 17
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 18
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 19
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 20
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 21
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 22
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 23
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 24
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 25
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 26
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 27
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 28
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 29
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 30
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 31
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 32
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 34
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 35
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 36
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 37
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 38
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 39
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 40
+"../../../Engine/Content/EditorResources/S_Note.uasset" 41
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 42
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 43
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 44
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 45
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 46
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 47
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 48
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 49
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 50
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 51
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 52
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 53
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 54
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 55
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 56
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 57
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 58
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 59
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 60
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 61
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 62
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 63
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 64
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 65
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 66
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 67
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 68
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 69
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 70
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 71
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 72
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 73
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 74
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 75
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 76
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 77
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 78
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 80
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 81
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 82
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 83
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 84
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 85
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 86
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 87
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 88
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 89
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 90
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 91
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 92
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 93
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 94
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 95
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 96
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 97
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 98
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 99
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 100
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 101
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 102
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 103
+"../../../Engine/Content/EngineResources/Black.uasset" 104
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 105
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 106
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 107
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 108
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 109
+"../../../Engine/Content/EngineSounds/Master.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 112
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 113
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 114
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 115
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 116
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 117
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 118
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 119
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 120
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 121
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 122
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 123
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 124
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 125
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 126
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 127
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 128
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 129
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 130
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 131
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 132
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 133
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 134
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 135
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 136
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 137
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 138
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 139
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 140
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 141
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 142
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 143
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 144
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 145
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 146
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 147
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 148
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 149
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 150
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 151
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 152
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 153
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 154
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 155
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 156
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 157
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 158
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 159
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 160
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 161
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 162
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 163
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 164
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 165
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 166
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 167
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 168
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 169
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 170
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 171
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 172
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 173
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 174
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Controllers/MenuController.uasset" 175
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/UI/MainMenuWidget.uasset" 176
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/UI/MainMenuHud.uasset" 177
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/GameModes/MenuMode.uasset" 178
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Maps/MainMenu.umap" 179
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 180
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Blocks/BP_GridBlock.uasset" 181
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/BP_MainCamera.uasset" 182
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Enumerators/RoomTypes.uasset" 183
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/DataStructures/ST_RoomData.uasset" 184
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/DataStructures/ST_LevelData.uasset" 185
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/BP_Spellplanes.uasset" 186
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/DataStructures/ST_RoomTemplate.uasset" 187
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/DataStructures/ST_RoomTemplateVariations.uasset" 188
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Interface/IN_Interactable.uasset" 189
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Materials/Mat_GridHighlight.uasset" 190
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Geometry/Meshes/CubeMaterial.uasset" 191
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 192
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/GridHighlighter.uasset" 193
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/MainFemale/Hana_SM_Skeleton.uasset" 194
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/MainFemale/Hana_Idle_Anim_01.uasset" 195
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Enumerators/HighlightMode.uasset" 196
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/ST_ItemStructure.uasset" 197
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/ST_SlotStructure.uasset" 198
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/UI/InventoryItemDragDrop.uasset" 199
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/UI/GameWidget.uasset" 200
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/UI/InventoryDraggedItem.uasset" 201
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/UI/InventoryTooltip.uasset" 202
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/UI/InventorySlot.uasset" 203
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/UI/EquipmentSlot.uasset" 204
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/UI/ActionBar.uasset" 205
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/UI/InventoryWindow.uasset" 206
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/BP_InventoryComponent.uasset" 207
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/BP_QuestLocationMarker.uasset" 208
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/Objectives/ObjectiveTypes.uasset" 209
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/Objectives/ObjectiveData.uasset" 210
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/Quests/Quest.uasset" 211
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/UI/QuestCompleteUI.uasset" 212
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/UI/QuestUI.uasset" 213
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/Macros/QuestMacros.uasset" 214
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/MainFemale/lambert1.uasset" 215
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/MainFemale/Hana_SM_PhysicsAsset.uasset" 216
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/MainFemale/Hana_SM.uasset" 217
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/Images/InteractImage.uasset" 218
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/UI/InteractMessageUI.uasset" 219
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Characters/BP_HanaCharacter.uasset" 220
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/UI/QuestWindowUI.uasset" 221
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Controllers/PlayerController.uasset" 222
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/UI/QuestObjectiveUI.uasset" 223
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/UI/QuestListUI.uasset" 224
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/BP_QuestLog.uasset" 225
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/Item/BP_BaseItem.uasset" 226
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Blocks/BP_BasePhysicalBlock.uasset" 227
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Materials/Mat_PlayerPortal.uasset" 228
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/PlayerPortal.uasset" 229
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/BP_PlayerPortal.uasset" 230
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/BP_RoomTrigger.uasset" 231
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Floors/BP_BaseFloor.uasset" 232
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Geometry/Meshes/1M_Cube.uasset" 233
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Floors/BP_GeneralFloor.uasset" 234
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Materials/Mat_Colour.uasset" 235
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Materials/Mat_Ground.uasset" 236
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Materials/Mat_Red_Inst.uasset" 237
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 238
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/PathMarker.uasset" 239
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/Images/WoodClub.uasset" 240
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/Item/BP_ClubItem.uasset" 241
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Data/RoomTemplates.uasset" 242
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/BP_LevelGenerator.uasset" 243
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/Interfaces/iQuestGiver.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 245
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 246
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 247
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 248
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 249
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 250
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 251
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 252
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 253
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 254
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 255
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 256
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 257
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 258
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 259
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 260
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 261
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 262
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 263
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 264
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Characters/NPCFriendly.uasset" 265
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 266
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 267
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 268
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 269
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 270
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 271
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 272
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 273
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 274
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Blocks/BluePrintBlocks/BP_BlueprintBaseBlock.uasset" 275
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Blocks/BP_BaseBlock.uasset" 276
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Blocks/ContainersBlocks/BP_Container.uasset" 277
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/Item/BP_PlaceableItem.uasset" 278
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/Item/BP_ChestItem.uasset" 279
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Blocks/ContainersBlocks/BP_TreasureChest.uasset" 280
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Assets/Images/3D_Dirt.uasset" 281
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/InventorySystem/Item/BP_DirtItem.uasset" 282
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Materials/Mat_Ground_Inst.uasset" 283
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/Actors/Blocks/MaterialsBlocks/BP_DirtFloor_Block.uasset" 284
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/Quests/Quest_001.uasset" 285
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/QuestSystem/Quests/Quest_002.uasset" 286
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Blueprints/UI/GameHud.uasset" 287
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/GameModes/PlayMode.uasset" 288
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Maps/TestInventory_BuiltData.uasset" 289
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 290
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Maps/TestInventory.umap" 291
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Maps/TestISO_BuiltData.uasset" 292
+"F:/Jay/Documents_New/Unreal Projects/TheSpellplanes/Content/TheSpellplanes/Maps/TestISO.umap" 293
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 294
+"../../../Engine/Content/Maps/Entry.umap" 295

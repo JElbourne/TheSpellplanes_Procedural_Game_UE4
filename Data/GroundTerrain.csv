@@ -1,0 +1,11 @@
+ID,Type,MoveSpeedModifier,Fertility,TerrainSupport
+0,"GBT_Soil","0.870000","0.800000","TS_Heavy"
+1,"GBT_Stony_Soil","0.870000","0.600000","TS_Heavy"
+2,"GBT_Rich_Soil","0.870000","1.000000","TS_Heavy"
+3,"GBT_Marsh","0.300000","0.000000","TS_None"
+4,"GBT_Mud","0.520000","0.000000","TS_None"
+5,"GBT_Sand","0.760000","0.100000","TS_Light"
+6,"GBT_Rough_Stone","0.870000","0.000000","TS_Heavy"
+7,"GBT_Shallow_Water","0.000000","0.000000","TS_None"
+8,"GBT_Deep_Water","0.000000","0.000000","TS_None"
+9,"GBT_Lava","0.000000","0.000000","TS_None"

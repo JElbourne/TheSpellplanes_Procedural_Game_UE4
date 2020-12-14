@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SpellPLanes_LevelEditor",
+	"Description": "A tool to help edit levels for the game SpellPlanes",
+	"Category": "Other",
+	"CreatedBy": "JayElbourne",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SpellPLanes_LevelEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
